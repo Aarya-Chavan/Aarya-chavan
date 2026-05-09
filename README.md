@@ -1,110 +1,68 @@
 <h1 align="center">Hi 👋, I'm Aarya Chavan</h1>
-
-<h3 align="center">💻 Software Developer | B.Tech CSE Student | AI & Web Development Enthusiast</h3>
-
----
-
-## 🚀 About Me
-
-- 🌍 I'm based in Kolhapur, Maharashtra  
-- 🎓 B.Tech Computer Science Student  
-- 💡 Passionate about AI, Web Development, and Software Engineering    
-- 📫 Reach me at: **chavanaarya96@gmail.com**
-
----
-
-## 🛠️ Skills & Technologies
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="40" height="40" alt="C"/>
-</a>
-
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40" height="40" alt="C++"/>
-</a>
-
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="40" height="40" alt="C#"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python"/>
-</a>
-
-<a href="https://www.oracle.com/java/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5"/>
-</a>
-
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git"/>
-</a>
-
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="40" height="40" alt="VS Code"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL"/>
-</a>
-
-<a href="https://www.oracle.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="40" height="40" alt="Oracle"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" height="40" alt="Linux"/>
-</a>
-
-<a href="https://ubuntu.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="40" height="40" alt="Ubuntu"/>
-</a>
-
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="40" height="40" alt=".NET"/>
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7433FF&center=true&vCenter=true&width=500&lines=Software+Developer;B.Tech+CSE+Student;AI+%26+Web+Dev+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
+### 🚀 About Me
 
+<table align="center">
+  <tr>
+    <td width="50%">
+      <p>📍 <b>Based in:</b> Kolhapur, Maharashtra</p>
+      <p>🎓 <b>Education:</b> B.Tech Computer Science Student</p>
+      <p>💡 <b>Interests:</b> AI, Modern Web Architectures, and System Design</p>
+      <p>📫 <b>Contact:</b> <a href="mailto:chavanaarya96@gmail.com">chavanaarya96@gmail.com</a></p>
+    </td>
+  </tr>
+</table>
 
-## 🔥 Streak Stats
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Languages & Tools |
+| :--- | :--- |
+| **Languages** | `C` `C++` `C#` `Java` `Python` `JavaScript` |
+| **Frontend** | `HTML5` `CSS3` `JavaScript` |
+| **Backend/DB** | `.NET` `MySQL` `Oracle` |
+| **OS & Tools** | `Linux` `Ubuntu` `Git` `VS Code` |
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Aarya-Chavan&theme=tokyonight" alt="GitHub Streak"/>
+  <!-- Dynamic icons with a unified style -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,html,css,dotnet,mysql,linux,ubuntu,git,vscode&perline=7" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/Aarya-Chavan" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/aarya-chavan-b54bb7280" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-</a>
-
-</p>
-
----
+### 📈 Activity & Stats
 
 <p align="center">
-✨ “Code. Learn. Build. Repeat.” ✨
+  <img src="https://github-readme-stats.vercel.app/api?username=Aarya-Chavan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=Aarya-Chavan&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/Aarya-Chavan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+  </a>
+  <a href="https://www.linkedin.com/in/aarya-chavan-b54bb7280">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:chavanaarya96@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7433FF&height=100&section=footer" />
+</p>
+
+<p align="center">
+✨ <i>“Code. Learn. Build. Repeat.”</i> ✨
 </p>
